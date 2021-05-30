@@ -1,1 +1,1 @@
-# CSOS-Infosec
+# CSOC-Infosec
