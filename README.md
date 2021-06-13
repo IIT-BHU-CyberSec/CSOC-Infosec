@@ -8,3 +8,6 @@ Introduction to CyberSecurity and Ethical Hacking and resources for Linux Bash S
 
 ## [Week 1](https://github.com/IIT-BHU-CyberSec/CSOC-Infosec/blob/main/Week-1.md)
 Showing skillset of Steganography and Forensic tools to look into files and extract hidden information from them. Challenges and Writeups to get familiar with Steganography and Forensics part of CTF.
+## [Week 2](https://github.com/IIT-BHU-CyberSec/CSOC-Infosec/blob/main/Week-2.md)
+Resources for learning basic python programming and scripting used in the infosec world. Learning about OSINT and its application in the real world cybersecurity.
+
