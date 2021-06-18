@@ -5,7 +5,7 @@ This is a list of resources and challenges to learn and practice web exploitatio
 [CTF101](https://ctf101.org/web-exploitation/overview/)\
 [Wireshark Tutorial](https://www.youtube.com/watch?v=TkCSr30UojM)\
 [TryHackMe How the Web works](https://tryhackme.com/module/how-the-web-works)\
-[TryHackMe WebHacking](https://tryhackme.com/module/web-hacking-1)
+[TryHackMe WebHacking](https://tryhackme.com/module/web-hacking-1)\
 [Tools For BugBounty](https://www.hacker101.com/resources)\
 [OwaspTop10](https://tryhackme.com/room/owasptop10)\
 [BurpSuite Tutorial](https://www.youtube.com/watch?v=G3hpAeoZ4ek)\
