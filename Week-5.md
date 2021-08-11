@@ -7,6 +7,6 @@ This is a list of resources and challenges to learn and practice binary exploita
 ### Start out by learning some assembly to understand what really happens at a low level
 ## Challenges
 [CTFlearn](https://ctflearn.com/challenge/1/browse)\
-[Pwnable.kr](https://pwnable.kr/play.php)
+[Pwnable.kr](https://pwnable.kr/play.php)\
 [PicoCTF](https://play.picoctf.org)
 
