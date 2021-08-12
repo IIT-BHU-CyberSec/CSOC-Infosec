@@ -18,3 +18,5 @@ All the challenges with their source code are available in this Github repositor
 Resources for learning to use various decompilers for java , python, .NET. apk .Basics of assembly language.Understanding and debugging PE/ELF binaries and solving some CrackMes.
 ## [Week 5](Week-5.md)
 Resources and challenges to learn and practice binary exploitation aka 'PWN'. 
+## [Week 6](Week-6.md)
+Resources and challenges to learn and practice cryptography and attack to break different kinds of encryptions.
